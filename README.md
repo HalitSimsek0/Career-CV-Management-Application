@@ -1,7 +1,11 @@
 Career & CV Management Application
+
+
 A desktop application for managing your entire career journey — CV parsing, PDF editing, job tracking, and analytics. Built with Python and PyQt6.
 
 ✨ Features
+
+
 CV Management — Upload & auto-parse CVs (PDF/DOCX), extract skills, experience, education, contact info
 PDF Editor — Edit PDFs with text, images, lines, shapes. Full formatting, undo/redo, multi-page support
 Job Tracker — Log applications, track statuses, search, filter, sort, calendar-based date filtering
@@ -10,6 +14,8 @@ Job Analysis — Paste a job listing → get skill matching, cover letter draft,
 Planned Companies — Track companies you plan to apply to with completion status
 
 🛠️ Tech Stack
+
+
 Python 3.10+ · PyQt6 · PyMuPDF · python-docx · SQLite3 · PyInstaller
 
 📁 Project Structure
