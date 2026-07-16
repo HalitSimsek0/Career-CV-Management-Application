@@ -21,10 +21,17 @@ Python 3.10+ · PyQt6 · PyMuPDF · python-docx · SQLite3 · PyInstaller
 📁 Project Structure
 
 ├── main.py              # Entry point
+
 ├── config.py            # Config & logging
+
 ├── database/            # SQLite connection & migrations
+
 ├── models/              # Data models (CV, Application, Company)
+
 ├── repositories/        # Data access layer
+
 ├── services/            # Business logic (parsing, analysis, stats)
+
 ├── ui/                  # PyQt6 interface (pages & widgets)
+
 └── utils/               # Helpers (skill dictionary, language detection)
